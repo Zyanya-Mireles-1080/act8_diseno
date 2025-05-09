@@ -1,19 +1,7 @@
 # act8_diseno
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/user-attachments/assets/578d1834-e675-4cc2-b9f0-0c237f35645d)
+![image](https://github.com/user-attachments/assets/3bee62e6-93fa-4313-a175-bf44cf0f1db4)
+![image](https://github.com/user-attachments/assets/7ac79d82-cfaa-4e4f-9d1a-1987add2ceb9)
 
-## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
